@@ -1,0 +1,15 @@
+librosa
+soundfile
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+opencv-python
+tqdm
+matplotlib
+pillow
+pandas
+numpy
+scipy
+
