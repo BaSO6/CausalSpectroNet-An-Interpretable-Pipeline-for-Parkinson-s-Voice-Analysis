@@ -1,0 +1,26 @@
+﻿token,target_group,audio_path,llm_description,divergence,HC_freq,PD_freq
+3,PD,/mnt/workspace/Parkinson/Voice/German_PD/1580-a_h.wav,"Audio Duration: 0.58 seconds.
+Average RMS (loudness): 0.2313.
+Average Zero-Crossing Rate: 0.0170.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The audio has a duration of 0.58 seconds with an average RMS value of 0.2313, indicating a moderate loudness level. The zero-crossing rate is 0.0170,",0.0027338949232454564,0.01933081297660592,0.022064707899851377
+60,PD,/mnt/workspace/Parkinson/Voice/German_PD/1580-phrase.wav,"Audio Duration: 2.31 seconds.
+Average RMS (loudness): 0.1862.
+Average Zero-Crossing Rate: 0.0232.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The sample appears to be a short, soft spoken sound with a relatively low and steady pitch. The tone is clear but slightly breathy, suggesting that the speaker may be exhaling gently during the utterance. There is no noticeable trem",0.0022913116362471824,0.010436861832751712,0.012728173468998894
+58,PD,/mnt/workspace/Parkinson/Voice/German_PD/1580-phrase.wav,"Audio Duration: 2.31 seconds.
+Average RMS (loudness): 0.1862.
+Average Zero-Crossing Rate: 0.0232.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The voice appears to have a low pitch that is relatively steady. There is a clear and consistent tone without noticeable breathiness or shakiness. The rhythm of the speech is smooth with no irregularities. Additionally, there does not appear",0.0019362645009742743,0.010852882254103658,0.012789146755077932
+51,PD,/mnt/workspace/Parkinson/Voice/German_PD/1580-phrase.wav,"Audio Duration: 2.31 seconds.
+Average RMS (loudness): 0.1862.
+Average Zero-Crossing Rate: 0.0232.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The audio sample has a duration of 2.31 seconds with an average RMS value of 0.1862, indicating a relatively soft volume. The zero-crossing rate is 0.0232,",0.0019148342135849108,0.012109021584593512,0.014023855798178423
+13,HC,/mnt/workspace/Parkinson/Voice/German_HC/Female/1/1-a_h.wav,"Audio Duration: 1.99 seconds.
+Average RMS (loudness): 0.3542.
+Average Zero-Crossing Rate: 0.0296.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The audio sample is brief, just under two seconds in duration. The pitch level is relatively low; there's no significant variation within this short clip. The tone of the voice appears clear without any notable breathiness or shakiness that",0.0015133776769772032,0.01909654905001939,0.017583171373042186

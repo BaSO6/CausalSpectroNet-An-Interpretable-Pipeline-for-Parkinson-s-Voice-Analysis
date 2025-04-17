@@ -1,0 +1,16 @@
+﻿token,KL_Divergence,GradCAM_Score,Group,Audio_Path,LLM_Description_Token,LLM_Description_GradCAM,HC_Frequency,PD_Frequency
+3,0.0027338949232454,0.0003154017322231,0,./Voice/German_HC/Female/113/113-a_h.wav,"Audio Duration: 0.58 seconds.
+Average RMS (loudness): 0.2313.
+Average Zero-Crossing Rate: 0.0170.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The audio has a duration of 0.58 seconds with an average RMS value of 0.2313, indicating a moderate loudness level. The zero-crossing rate is 0.0170,",模拟 LLM 回答：该语音样本语调变化明显，token 分布显示高音部分的比例较高，可能反映出发音时有较强的情感起伏。,0.0193308129766059,0.0220647078998513
+58,0.0019362645009742,0.0033030533231794,0,./Voice/German_HC/Female/158/158-a_h.wav,"Audio Duration: 2.31 seconds.
+Average RMS (loudness): 0.1862.
+Average Zero-Crossing Rate: 0.0232.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The voice appears to have a low pitch that is relatively steady. There is a clear and consistent tone without noticeable breathiness or shakiness. The rhythm of the speech is smooth with no irregularities. Additionally, there does not appear",模拟 LLM 回答：该语音样本语调变化明显，token 分布显示高音部分的比例较高，可能反映出发音时有较强的情感起伏。,0.0108528822541036,0.0127891467550779
+13,0.0015133776769772,0.0003154017322231,0,./Voice/German_HC/Female/113/113-a_h.wav,"Audio Duration: 1.99 seconds.
+Average RMS (loudness): 0.3542.
+Average Zero-Crossing Rate: 0.0296.
+
+Based on these acoustic features, provide a detailed description of the voice quality. Focus on aspects such as pitch (high/low, steady/varied), tone (clear, breathy, shaky), rhythm (smooth or irregular), and any noticeable tremor. Do not include any semantic content—only describe the acoustic properties. The audio sample is brief, just under two seconds in duration. The pitch level is relatively low; there's no significant variation within this short clip. The tone of the voice appears clear without any notable breathiness or shakiness that",模拟 LLM 回答：该语音样本语调变化明显，token 分布显示高音部分的比例较高，可能反映出发音时有较强的情感起伏。,0.0190965490500193,0.0175831713730421

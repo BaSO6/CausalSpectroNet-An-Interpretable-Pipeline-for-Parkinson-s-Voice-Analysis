@@ -1,0 +1,1254 @@
+filename,content,folder,label
+1-a_h.wav,a: high,1,0
+1-a_l.wav,a: low,1,0
+1-a_lhl.wav,a: low-high-low,1,0
+1-a_n.wav,a: natural,1,0
+1-i_h.wav,i: high,1,0
+1-i_l.wav,i: low,1,0
+1-i_lhl.wav,i: low-high-low,1,0
+1-i_n.wav,i: natural,1,0
+1-phrase.wav,"Guten Morgen, wie geht es dir?",1,0
+1-u_h.wav,u: high,1,0
+1-u_l.wav,u: low,1,0
+1-u_lhl.wav,u: low-high-low,1,0
+1-u_n.wav,u: natural,1,0
+10-a_h.wav,a: high,10,0
+10-a_l.wav,a: low,10,0
+10-a_lhl.wav,a: low-high-low,10,0
+10-a_n.wav,a: natural,10,0
+10-i_h.wav,i: high,10,0
+10-i_l.wav,i: low,10,0
+10-i_lhl.wav,i: low-high-low,10,0
+10-i_n.wav,i: natural,10,0
+10-phrase.wav,"Guten Morgen, wie geht es dir?",10,0
+10-u_h.wav,u: high,10,0
+10-u_l.wav,u: low,10,0
+10-u_lhl.wav,u: low-high-low,10,0
+10-u_n.wav,u: natural,10,0
+102-a_h.wav,a: high,102,0
+102-a_l.wav,a: low,102,0
+102-a_lhl.wav,a: low-high-low,102,0
+102-a_n.wav,a: natural,102,0
+102-i_h.wav,i: high,102,0
+102-i_l.wav,i: low,102,0
+102-i_lhl.wav,i: low-high-low,102,0
+102-i_n.wav,i: natural,102,0
+102-phrase.wav,"Guten Morgen, wie geht es dir?",102,0
+102-u_h.wav,u: high,102,0
+102-u_l.wav,u: low,102,0
+102-u_lhl.wav,u: low-high-low,102,0
+102-u_n.wav,u: natural,102,0
+104-a_h.wav,a: high,104,0
+104-a_l.wav,a: low,104,0
+104-a_lhl.wav,a: low-high-low,104,0
+104-a_n.wav,a: natural,104,0
+104-i_h.wav,i: high,104,0
+104-i_l.wav,i: low,104,0
+104-i_lhl.wav,i: low-high-low,104,0
+104-i_n.wav,i: natural,104,0
+104-phrase.wav,"Guten Morgen, wie geht es dir?",104,0
+104-u_h.wav,u: high,104,0
+104-u_l.wav,u: low,104,0
+104-u_lhl.wav,u: low-high-low,104,0
+104-u_n.wav,u: natural,104,0
+112-a_h.wav,a: high,112,0
+112-a_l.wav,a: low,112,0
+112-a_lhl.wav,a: low-high-low,112,0
+112-a_n.wav,a: natural,112,0
+112-i_h.wav,i: high,112,0
+112-i_l.wav,i: low,112,0
+112-i_lhl.wav,i: low-high-low,112,0
+112-i_n.wav,i: natural,112,0
+112-phrase.wav,"Guten Morgen, wie geht es dir?",112,0
+112-u_h.wav,u: high,112,0
+112-u_l.wav,u: low,112,0
+112-u_lhl.wav,u: low-high-low,112,0
+112-u_n.wav,u: natural,112,0
+113-a_h.wav,a: high,113,0
+113-a_l.wav,a: low,113,0
+113-a_lhl.wav,a: low-high-low,113,0
+113-a_n.wav,a: natural,113,0
+113-i_h.wav,i: high,113,0
+113-i_l.wav,i: low,113,0
+113-i_lhl.wav,i: low-high-low,113,0
+113-i_n.wav,i: natural,113,0
+113-phrase.wav,"Guten Morgen, wie geht es dir?",113,0
+113-u_h.wav,u: high,113,0
+113-u_l.wav,u: low,113,0
+113-u_lhl.wav,u: low-high-low,113,0
+113-u_n.wav,u: natural,113,0
+114-a_h.wav,a: high,114,0
+114-a_l.wav,a: low,114,0
+114-a_lhl.wav,a: low-high-low,114,0
+114-a_n.wav,a: natural,114,0
+114-i_h.wav,i: high,114,0
+114-i_l.wav,i: low,114,0
+114-i_lhl.wav,i: low-high-low,114,0
+114-i_n.wav,i: natural,114,0
+114-phrase.wav,"Guten Morgen, wie geht es dir?",114,0
+114-u_h.wav,u: high,114,0
+114-u_l.wav,u: low,114,0
+114-u_lhl.wav,u: low-high-low,114,0
+114-u_n.wav,u: natural,114,0
+115-a_h.wav,a: high,115,0
+115-a_l.wav,a: low,115,0
+115-a_lhl.wav,a: low-high-low,115,0
+115-a_n.wav,a: natural,115,0
+115-i_h.wav,i: high,115,0
+115-i_l.wav,i: low,115,0
+115-i_lhl.wav,i: low-high-low,115,0
+115-i_n.wav,i: natural,115,0
+115-phrase.wav,"Guten Morgen, wie geht es dir?",115,0
+115-u_h.wav,u: high,115,0
+115-u_l.wav,u: low,115,0
+115-u_lhl.wav,u: low-high-low,115,0
+115-u_n.wav,u: natural,115,0
+116-a_h.wav,a: high,116,0
+116-a_l.wav,a: low,116,0
+116-a_lhl.wav,a: low-high-low,116,0
+116-a_n.wav,a: natural,116,0
+116-i_h.wav,i: high,116,0
+116-i_l.wav,i: low,116,0
+116-i_lhl.wav,i: low-high-low,116,0
+116-i_n.wav,i: natural,116,0
+116-phrase.wav,"Guten Morgen, wie geht es dir?",116,0
+116-u_h.wav,u: high,116,0
+116-u_l.wav,u: low,116,0
+116-u_lhl.wav,u: low-high-low,116,0
+116-u_n.wav,u: natural,116,0
+117-a_h.wav,a: high,117,0
+117-a_l.wav,a: low,117,0
+117-a_n.wav,a: natural,117,0
+117-i_h.wav,i: high,117,0
+117-i_l.wav,i: low,117,0
+117-i_lhl.wav,i: low-high-low,117,0
+117-i_n.wav,i: natural,117,0
+117-phrase.wav,"Guten Morgen, wie geht es dir?",117,0
+117-u_h.wav,u: high,117,0
+117-u_l.wav,u: low,117,0
+117-u_lhl.wav,u: low-high-low,117,0
+117-u_n.wav,u: natural,117,0
+12-a_h.wav,a: high,12,0
+12-a_l.wav,a: low,12,0
+12-a_lhl.wav,a: low-high-low,12,0
+12-a_n.wav,a: natural,12,0
+12-i_h.wav,i: high,12,0
+12-i_l.wav,i: low,12,0
+12-i_lhl.wav,i: low-high-low,12,0
+12-i_n.wav,i: natural,12,0
+12-phrase.wav,"Guten Morgen, wie geht es dir?",12,0
+12-u_h.wav,u: high,12,0
+12-u_l.wav,u: low,12,0
+12-u_lhl.wav,u: low-high-low,12,0
+12-u_n.wav,u: natural,12,0
+121-a_h.wav,a: high,121,0
+121-a_l.wav,a: low,121,0
+121-a_lhl.wav,a: low-high-low,121,0
+121-a_n.wav,a: natural,121,0
+121-i_h.wav,i: high,121,0
+121-i_l.wav,i: low,121,0
+121-i_lhl.wav,i: low-high-low,121,0
+121-i_n.wav,i: natural,121,0
+121-phrase.wav,"Guten Morgen, wie geht es dir?",121,0
+121-u_h.wav,u: high,121,0
+121-u_l.wav,u: low,121,0
+121-u_lhl.wav,u: low-high-low,121,0
+121-u_n.wav,u: natural,121,0
+122-a_h.wav,a: high,122,0
+122-a_l.wav,a: low,122,0
+122-a_lhl.wav,a: low-high-low,122,0
+122-a_n.wav,a: natural,122,0
+122-i_h.wav,i: high,122,0
+122-i_l.wav,i: low,122,0
+122-i_lhl.wav,i: low-high-low,122,0
+122-i_n.wav,i: natural,122,0
+122-phrase.wav,"Guten Morgen, wie geht es dir?",122,0
+122-u_h.wav,u: high,122,0
+122-u_l.wav,u: low,122,0
+122-u_lhl.wav,u: low-high-low,122,0
+122-u_n.wav,u: natural,122,0
+123-a_h.wav,a: high,123,0
+123-a_l.wav,a: low,123,0
+123-a_lhl.wav,a: low-high-low,123,0
+123-a_n.wav,a: natural,123,0
+123-i_h.wav,i: high,123,0
+123-i_l.wav,i: low,123,0
+123-i_lhl.wav,i: low-high-low,123,0
+123-i_n.wav,i: natural,123,0
+123-phrase.wav,"Guten Morgen, wie geht es dir?",123,0
+123-u_h.wav,u: high,123,0
+123-u_l.wav,u: low,123,0
+123-u_lhl.wav,u: low-high-low,123,0
+123-u_n.wav,u: natural,123,0
+124-a_h.wav,a: high,124,0
+124-a_l.wav,a: low,124,0
+124-a_lhl.wav,a: low-high-low,124,0
+124-a_n.wav,a: natural,124,0
+124-i_h.wav,i: high,124,0
+124-i_l.wav,i: low,124,0
+124-i_lhl.wav,i: low-high-low,124,0
+124-i_n.wav,i: natural,124,0
+124-phrase.wav,"Guten Morgen, wie geht es dir?",124,0
+124-u_h.wav,u: high,124,0
+124-u_l.wav,u: low,124,0
+124-u_lhl.wav,u: low-high-low,124,0
+124-u_n.wav,u: natural,124,0
+125-a_h.wav,a: high,125,0
+125-a_l.wav,a: low,125,0
+125-a_lhl.wav,a: low-high-low,125,0
+125-a_n.wav,a: natural,125,0
+125-i_h.wav,i: high,125,0
+125-i_l.wav,i: low,125,0
+125-i_lhl.wav,i: low-high-low,125,0
+125-i_n.wav,i: natural,125,0
+125-phrase.wav,"Guten Morgen, wie geht es dir?",125,0
+125-u_h.wav,u: high,125,0
+125-u_l.wav,u: low,125,0
+125-u_lhl.wav,u: low-high-low,125,0
+125-u_n.wav,u: natural,125,0
+126-a_h.wav,a: high,126,0
+126-a_l.wav,a: low,126,0
+126-a_lhl.wav,a: low-high-low,126,0
+126-a_n.wav,a: natural,126,0
+126-i_h.wav,i: high,126,0
+126-i_l.wav,i: low,126,0
+126-i_lhl.wav,i: low-high-low,126,0
+126-i_n.wav,i: natural,126,0
+126-phrase.wav,"Guten Morgen, wie geht es dir?",126,0
+126-u_h.wav,u: high,126,0
+126-u_l.wav,u: low,126,0
+126-u_lhl.wav,u: low-high-low,126,0
+126-u_n.wav,u: natural,126,0
+13-a_h.wav,a: high,13,0
+13-a_l.wav,a: low,13,0
+13-a_lhl.wav,a: low-high-low,13,0
+13-a_n.wav,a: natural,13,0
+13-i_h.wav,i: high,13,0
+13-i_l.wav,i: low,13,0
+13-i_lhl.wav,i: low-high-low,13,0
+13-i_n.wav,i: natural,13,0
+13-phrase.wav,"Guten Morgen, wie geht es dir?",13,0
+13-u_h.wav,u: high,13,0
+13-u_l.wav,u: low,13,0
+13-u_lhl.wav,u: low-high-low,13,0
+13-u_n.wav,u: natural,13,0
+133-a_h.wav,a: high,133,0
+133-a_l.wav,a: low,133,0
+133-a_lhl.wav,a: low-high-low,133,0
+133-a_n.wav,a: natural,133,0
+133-i_h.wav,i: high,133,0
+133-i_l.wav,i: low,133,0
+133-i_lhl.wav,i: low-high-low,133,0
+133-i_n.wav,i: natural,133,0
+133-phrase.wav,"Guten Morgen, wie geht es dir?",133,0
+133-u_h.wav,u: high,133,0
+133-u_l.wav,u: low,133,0
+133-u_lhl.wav,u: low-high-low,133,0
+133-u_n.wav,u: natural,133,0
+135-a_h.wav,a: high,135,0
+135-a_l.wav,a: low,135,0
+135-a_lhl.wav,a: low-high-low,135,0
+135-a_n.wav,a: natural,135,0
+135-i_h.wav,i: high,135,0
+135-i_l.wav,i: low,135,0
+135-i_lhl.wav,i: low-high-low,135,0
+135-i_n.wav,i: natural,135,0
+135-phrase.wav,"Guten Morgen, wie geht es dir?",135,0
+135-u_h.wav,u: high,135,0
+135-u_l.wav,u: low,135,0
+135-u_lhl.wav,u: low-high-low,135,0
+135-u_n.wav,u: natural,135,0
+1359-a_l.wav,a: low,1359,0
+1359-a_lhl.wav,a: low-high-low,1359,0
+1359-a_n.wav,a: natural,1359,0
+1359-i_h.wav,i: high,1359,0
+1359-i_l.wav,i: low,1359,0
+1359-i_lhl.wav,i: low-high-low,1359,0
+1359-i_n.wav,i: natural,1359,0
+1359-phrase.wav,"Guten Morgen, wie geht es dir?",1359,0
+1359-u_h.wav,u: high,1359,0
+1359-u_l.wav,u: low,1359,0
+1359-u_lhl.wav,u: low-high-low,1359,0
+1359-u_n.wav,u: natural,1359,0
+136-a_l.wav,a: low,136,0
+136-a_lhl.wav,a: low-high-low,136,0
+136-i_h.wav,i: high,136,0
+136-i_n.wav,i: natural,136,0
+136-phrase.wav,"Guten Morgen, wie geht es dir?",136,0
+136-u_h.wav,u: high,136,0
+136-u_l.wav,u: low,136,0
+136-u_lhl.wav,u: low-high-low,136,0
+136-u_n.wav,u: natural,136,0
+137-a_h.wav,a: high,137,0
+137-a_l.wav,a: low,137,0
+137-a_lhl.wav,a: low-high-low,137,0
+137-a_n.wav,a: natural,137,0
+137-i_h.wav,i: high,137,0
+137-i_l.wav,i: low,137,0
+137-i_lhl.wav,i: low-high-low,137,0
+137-i_n.wav,i: natural,137,0
+137-phrase.wav,"Guten Morgen, wie geht es dir?",137,0
+137-u_h.wav,u: high,137,0
+137-u_l.wav,u: low,137,0
+137-u_lhl.wav,u: low-high-low,137,0
+137-u_n.wav,u: natural,137,0
+14-a_h.wav,a: high,14,0
+14-a_l.wav,a: low,14,0
+14-a_lhl.wav,a: low-high-low,14,0
+14-a_n.wav,a: natural,14,0
+14-i_h.wav,i: high,14,0
+14-i_l.wav,i: low,14,0
+14-i_lhl.wav,i: low-high-low,14,0
+14-i_n.wav,i: natural,14,0
+14-phrase.wav,"Guten Morgen, wie geht es dir?",14,0
+14-u_h.wav,u: high,14,0
+14-u_l.wav,u: low,14,0
+14-u_lhl.wav,u: low-high-low,14,0
+14-u_n.wav,u: natural,14,0
+145-a_h.wav,a: high,145,0
+145-a_l.wav,a: low,145,0
+145-a_lhl.wav,a: low-high-low,145,0
+145-a_n.wav,a: natural,145,0
+145-i_h.wav,i: high,145,0
+145-i_l.wav,i: low,145,0
+145-i_lhl.wav,i: low-high-low,145,0
+145-i_n.wav,i: natural,145,0
+145-phrase.wav,"Guten Morgen, wie geht es dir?",145,0
+145-u_h.wav,u: high,145,0
+145-u_l.wav,u: low,145,0
+145-u_lhl.wav,u: low-high-low,145,0
+145-u_n.wav,u: natural,145,0
+153-a_h.wav,a: high,153,0
+153-a_l.wav,a: low,153,0
+153-a_lhl.wav,a: low-high-low,153,0
+153-a_n.wav,a: natural,153,0
+153-i_h.wav,i: high,153,0
+153-i_l.wav,i: low,153,0
+153-i_lhl.wav,i: low-high-low,153,0
+153-i_n.wav,i: natural,153,0
+153-phrase.wav,"Guten Morgen, wie geht es dir?",153,0
+153-u_h.wav,u: high,153,0
+153-u_l.wav,u: low,153,0
+153-u_lhl.wav,u: low-high-low,153,0
+153-u_n.wav,u: natural,153,0
+157-a_h.wav,a: high,157,0
+157-a_l.wav,a: low,157,0
+157-a_lhl.wav,a: low-high-low,157,0
+157-a_n.wav,a: natural,157,0
+157-i_h.wav,i: high,157,0
+157-i_l.wav,i: low,157,0
+157-i_lhl.wav,i: low-high-low,157,0
+157-i_n.wav,i: natural,157,0
+157-phrase.wav,"Guten Morgen, wie geht es dir?",157,0
+157-u_h.wav,u: high,157,0
+157-u_l.wav,u: low,157,0
+157-u_lhl.wav,u: low-high-low,157,0
+157-u_n.wav,u: natural,157,0
+158-a_h.wav,a: high,158,0
+158-a_l.wav,a: low,158,0
+158-a_lhl.wav,a: low-high-low,158,0
+158-a_n.wav,a: natural,158,0
+158-i_h.wav,i: high,158,0
+158-i_l.wav,i: low,158,0
+158-i_lhl.wav,i: low-high-low,158,0
+158-i_n.wav,i: natural,158,0
+158-phrase.wav,"Guten Morgen, wie geht es dir?",158,0
+158-u_h.wav,u: high,158,0
+158-u_l.wav,u: low,158,0
+158-u_lhl.wav,u: low-high-low,158,0
+158-u_n.wav,u: natural,158,0
+1580-a_h.wav,high,German_PD,1
+1580-a_l.wav,low,German_PD,1
+1580-a_lhl.wav,low-high-low,German_PD,1
+1580-a_n.wav,natural,German_PD,1
+1580-i_h.wav,high,German_PD,1
+1580-i_l.wav,low,German_PD,1
+1580-i_lhl.wav,low-high-low,German_PD,1
+1580-i_n.wav,natural,German_PD,1
+1580-phrase.wav,"Guten Morgen, wie geht es dir?",German_PD,1
+1580-u_h.wav,high,German_PD,1
+1580-u_l.wav,low,German_PD,1
+1580-u_lhl.wav,low-high-low,German_PD,1
+1580-u_n.wav,natural,German_PD,1
+16-a_h.wav,a: high,16,0
+16-a_l.wav,a: low,16,0
+16-a_lhl.wav,a: low-high-low,16,0
+16-a_n.wav,a: natural,16,0
+16-i_h.wav,i: high,16,0
+16-i_l.wav,i: low,16,0
+16-i_lhl.wav,i: low-high-low,16,0
+16-i_n.wav,i: natural,16,0
+16-phrase.wav,"Guten Morgen, wie geht es dir?",16,0
+16-u_h.wav,u: high,16,0
+16-u_l.wav,u: low,16,0
+16-u_lhl.wav,u: low-high-low,16,0
+16-u_n.wav,u: natural,16,0
+17-a_h.wav,a: high,17,0
+17-a_l.wav,a: low,17,0
+17-a_lhl.wav,a: low-high-low,17,0
+17-a_n.wav,a: natural,17,0
+17-i_h.wav,i: high,17,0
+17-i_l.wav,i: low,17,0
+17-i_lhl.wav,i: low-high-low,17,0
+17-i_n.wav,i: natural,17,0
+17-phrase.wav,"Guten Morgen, wie geht es dir?",17,0
+17-u_h.wav,u: high,17,0
+17-u_l.wav,u: low,17,0
+17-u_lhl.wav,u: low-high-low,17,0
+17-u_n.wav,u: natural,17,0
+18-a_h.wav,a: high,18,0
+18-a_l.wav,a: low,18,0
+18-a_lhl.wav,a: low-high-low,18,0
+18-a_n.wav,a: natural,18,0
+18-i_h.wav,i: high,18,0
+18-i_l.wav,i: low,18,0
+18-i_lhl.wav,i: low-high-low,18,0
+18-i_n.wav,i: natural,18,0
+18-phrase.wav,"Guten Morgen, wie geht es dir?",18,0
+18-u_h.wav,u: high,18,0
+18-u_l.wav,u: low,18,0
+18-u_lhl.wav,u: low-high-low,18,0
+18-u_n.wav,u: natural,18,0
+19-a_h.wav,a: high,19,0
+19-a_l.wav,a: low,19,0
+19-a_lhl.wav,a: low-high-low,19,0
+19-a_n.wav,a: natural,19,0
+19-i_h.wav,i: high,19,0
+19-i_l.wav,i: low,19,0
+19-i_lhl.wav,i: low-high-low,19,0
+19-i_n.wav,i: natural,19,0
+19-phrase.wav,"Guten Morgen, wie geht es dir?",19,0
+19-u_h.wav,u: high,19,0
+19-u_l.wav,u: low,19,0
+19-u_lhl.wav,u: low-high-low,19,0
+19-u_n.wav,u: natural,19,0
+2-a_h.wav,a: high,2,0
+2-a_l.wav,a: low,2,0
+2-a_lhl.wav,a: low-high-low,2,0
+2-a_n.wav,a: natural,2,0
+2-i_h.wav,i: high,2,0
+2-i_l.wav,i: low,2,0
+2-i_lhl.wav,i: low-high-low,2,0
+2-i_n.wav,i: natural,2,0
+2-phrase.wav,"Guten Morgen, wie geht es dir?",2,0
+2-u_h.wav,u: high,2,0
+2-u_l.wav,u: low,2,0
+2-u_lhl.wav,u: low-high-low,2,0
+2-u_n.wav,u: natural,2,0
+20-a_h.wav,a: high,20,0
+20-a_l.wav,a: low,20,0
+20-a_lhl.wav,a: low-high-low,20,0
+20-a_n.wav,a: natural,20,0
+20-i_h.wav,i: high,20,0
+20-i_l.wav,i: low,20,0
+20-i_lhl.wav,i: low-high-low,20,0
+20-i_n.wav,i: natural,20,0
+20-phrase.wav,"Guten Morgen, wie geht es dir?",20,0
+20-u_h.wav,u: high,20,0
+20-u_l.wav,u: low,20,0
+20-u_lhl.wav,u: low-high-low,20,0
+20-u_n.wav,u: natural,20,0
+21-a_h.wav,a: high,21,0
+21-a_l.wav,a: low,21,0
+21-a_lhl.wav,a: low-high-low,21,0
+21-a_n.wav,a: natural,21,0
+21-i_h.wav,i: high,21,0
+21-i_l.wav,i: low,21,0
+21-i_lhl.wav,i: low-high-low,21,0
+21-i_n.wav,i: natural,21,0
+21-phrase.wav,"Guten Morgen, wie geht es dir?",21,0
+21-u_h.wav,u: high,21,0
+21-u_l.wav,u: low,21,0
+21-u_lhl.wav,u: low-high-low,21,0
+21-u_n.wav,u: natural,21,0
+23-a_h.wav,a: high,23,0
+23-a_l.wav,a: low,23,0
+23-a_lhl.wav,a: low-high-low,23,0
+23-a_n.wav,a: natural,23,0
+23-i_h.wav,i: high,23,0
+23-i_l.wav,i: low,23,0
+23-i_lhl.wav,i: low-high-low,23,0
+23-i_n.wav,i: natural,23,0
+23-phrase.wav,"Guten Morgen, wie geht es dir?",23,0
+23-u_h.wav,u: high,23,0
+23-u_l.wav,u: low,23,0
+23-u_lhl.wav,u: low-high-low,23,0
+23-u_n.wav,u: natural,23,0
+24-a_h.wav,a: high,24,0
+24-a_l.wav,a: low,24,0
+24-a_lhl.wav,a: low-high-low,24,0
+24-a_n.wav,a: natural,24,0
+24-i_h.wav,i: high,24,0
+24-i_l.wav,i: low,24,0
+24-i_lhl.wav,i: low-high-low,24,0
+24-i_n.wav,i: natural,24,0
+24-phrase.wav,"Guten Morgen, wie geht es dir?",24,0
+24-u_h.wav,u: high,24,0
+24-u_l.wav,u: low,24,0
+24-u_lhl.wav,u: low-high-low,24,0
+24-u_n.wav,u: natural,24,0
+25-a_h.wav,a: high,25,0
+25-a_l.wav,a: low,25,0
+25-a_lhl.wav,a: low-high-low,25,0
+25-a_n.wav,a: natural,25,0
+25-i_h.wav,i: high,25,0
+25-i_l.wav,i: low,25,0
+25-i_lhl.wav,i: low-high-low,25,0
+25-i_n.wav,i: natural,25,0
+25-phrase.wav,"Guten Morgen, wie geht es dir?",25,0
+25-u_h.wav,u: high,25,0
+25-u_l.wav,u: low,25,0
+25-u_lhl.wav,u: low-high-low,25,0
+25-u_n.wav,u: natural,25,0
+26-a_h.wav,a: high,26,0
+26-a_l.wav,a: low,26,0
+26-a_lhl.wav,a: low-high-low,26,0
+26-a_n.wav,a: natural,26,0
+26-i_h.wav,i: high,26,0
+26-i_l.wav,i: low,26,0
+26-i_lhl.wav,i: low-high-low,26,0
+26-i_n.wav,i: natural,26,0
+26-phrase.wav,"Guten Morgen, wie geht es dir?",26,0
+26-u_h.wav,u: high,26,0
+26-u_l.wav,u: low,26,0
+26-u_lhl.wav,u: low-high-low,26,0
+26-u_n.wav,u: natural,26,0
+27-a_h.wav,a: high,27,0
+27-a_l.wav,a: low,27,0
+27-a_lhl.wav,a: low-high-low,27,0
+27-a_n.wav,a: natural,27,0
+27-i_h.wav,i: high,27,0
+27-i_l.wav,i: low,27,0
+27-i_lhl.wav,i: low-high-low,27,0
+27-i_n.wav,i: natural,27,0
+27-phrase.wav,"Guten Morgen, wie geht es dir?",27,0
+27-u_h.wav,u: high,27,0
+27-u_l.wav,u: low,27,0
+27-u_lhl.wav,u: low-high-low,27,0
+27-u_n.wav,u: natural,27,0
+28-a_h.wav,a: high,28,0
+28-a_l.wav,a: low,28,0
+28-a_lhl.wav,a: low-high-low,28,0
+28-a_n.wav,a: natural,28,0
+28-i_h.wav,i: high,28,0
+28-i_l.wav,i: low,28,0
+28-i_lhl.wav,i: low-high-low,28,0
+28-i_n.wav,i: natural,28,0
+28-phrase.wav,"Guten Morgen, wie geht es dir?",28,0
+28-u_h.wav,u: high,28,0
+28-u_l.wav,u: low,28,0
+28-u_lhl.wav,u: low-high-low,28,0
+28-u_n.wav,u: natural,28,0
+3-a_h.wav,a: high,3,0
+3-a_l.wav,a: low,3,0
+3-a_lhl.wav,a: low-high-low,3,0
+3-a_n.wav,a: natural,3,0
+3-i_h.wav,i: high,3,0
+3-i_l.wav,i: low,3,0
+3-i_lhl.wav,i: low-high-low,3,0
+3-i_n.wav,i: natural,3,0
+3-phrase.wav,"Guten Morgen, wie geht es dir?",3,0
+3-u_h.wav,u: high,3,0
+3-u_l.wav,u: low,3,0
+3-u_lhl.wav,u: low-high-low,3,0
+3-u_n.wav,u: natural,3,0
+30-a_h.wav,a: high,30,0
+30-a_l.wav,a: low,30,0
+30-a_lhl.wav,a: low-high-low,30,0
+30-a_n.wav,a: natural,30,0
+30-i_h.wav,i: high,30,0
+30-i_l.wav,i: low,30,0
+30-i_lhl.wav,i: low-high-low,30,0
+30-i_n.wav,i: natural,30,0
+30-phrase.wav,"Guten Morgen, wie geht es dir?",30,0
+30-u_h.wav,u: high,30,0
+30-u_l.wav,u: low,30,0
+30-u_lhl.wav,u: low-high-low,30,0
+30-u_n.wav,u: natural,30,0
+31-a_h.wav,a: high,31,0
+31-a_l.wav,a: low,31,0
+31-a_lhl.wav,a: low-high-low,31,0
+31-a_n.wav,a: natural,31,0
+31-i_h.wav,i: high,31,0
+31-i_l.wav,i: low,31,0
+31-i_lhl.wav,i: low-high-low,31,0
+31-i_n.wav,i: natural,31,0
+31-phrase.wav,"Guten Morgen, wie geht es dir?",31,0
+31-u_h.wav,u: high,31,0
+31-u_l.wav,u: low,31,0
+31-u_lhl.wav,u: low-high-low,31,0
+31-u_n.wav,u: natural,31,0
+33-a_h.wav,a: high,33,0
+33-a_l.wav,a: low,33,0
+33-a_lhl.wav,a: low-high-low,33,0
+33-a_n.wav,a: natural,33,0
+33-i_h.wav,i: high,33,0
+33-i_l.wav,i: low,33,0
+33-i_lhl.wav,i: low-high-low,33,0
+33-i_n.wav,i: natural,33,0
+33-phrase.wav,"Guten Morgen, wie geht es dir?",33,0
+33-u_h.wav,u: high,33,0
+33-u_l.wav,u: low,33,0
+33-u_lhl.wav,u: low-high-low,33,0
+33-u_n.wav,u: natural,33,0
+34-a_h.wav,a: high,34,0
+34-a_l.wav,a: low,34,0
+34-a_lhl.wav,a: low-high-low,34,0
+34-a_n.wav,a: natural,34,0
+34-i_h.wav,i: high,34,0
+34-i_l.wav,i: low,34,0
+34-i_lhl.wav,i: low-high-low,34,0
+34-i_n.wav,i: natural,34,0
+34-phrase.wav,"Guten Morgen, wie geht es dir?",34,0
+34-u_h.wav,u: high,34,0
+34-u_l.wav,u: low,34,0
+34-u_lhl.wav,u: low-high-low,34,0
+34-u_n.wav,u: natural,34,0
+35-a_h.wav,a: high,35,0
+35-a_l.wav,a: low,35,0
+35-a_lhl.wav,a: low-high-low,35,0
+35-a_n.wav,a: natural,35,0
+35-i_h.wav,i: high,35,0
+35-i_l.wav,i: low,35,0
+35-i_lhl.wav,i: low-high-low,35,0
+35-i_n.wav,i: natural,35,0
+35-phrase.wav,"Guten Morgen, wie geht es dir?",35,0
+35-u_h.wav,u: high,35,0
+35-u_l.wav,u: low,35,0
+35-u_lhl.wav,u: low-high-low,35,0
+35-u_n.wav,u: natural,35,0
+36-a_h.wav,a: high,36,0
+36-a_l.wav,a: low,36,0
+36-a_lhl.wav,a: low-high-low,36,0
+36-i_n.wav,i: natural,36,0
+36-phrase.wav,"Guten Morgen, wie geht es dir?",36,0
+36-u_h.wav,u: high,36,0
+36-u_l.wav,u: low,36,0
+36-u_lhl.wav,u: low-high-low,36,0
+36-u_n.wav,u: natural,36,0
+37-a_h.wav,a: high,37,0
+37-a_l.wav,a: low,37,0
+37-a_lhl.wav,a: low-high-low,37,0
+37-a_n.wav,a: natural,37,0
+37-i_h.wav,i: high,37,0
+37-i_l.wav,i: low,37,0
+37-i_lhl.wav,i: low-high-low,37,0
+37-i_n.wav,i: natural,37,0
+37-phrase.wav,"Guten Morgen, wie geht es dir?",37,0
+37-u_h.wav,u: high,37,0
+37-u_l.wav,u: low,37,0
+37-u_lhl.wav,u: low-high-low,37,0
+37-u_n.wav,u: natural,37,0
+38-a_h.wav,a: high,38,0
+38-a_l.wav,a: low,38,0
+38-a_lhl.wav,a: low-high-low,38,0
+38-a_n.wav,a: natural,38,0
+38-i_h.wav,i: high,38,0
+38-i_l.wav,i: low,38,0
+38-i_lhl.wav,i: low-high-low,38,0
+38-i_n.wav,i: natural,38,0
+38-phrase.wav,"Guten Morgen, wie geht es dir?",38,0
+38-u_h.wav,u: high,38,0
+38-u_l.wav,u: low,38,0
+38-u_lhl.wav,u: low-high-low,38,0
+38-u_n.wav,u: natural,38,0
+39-a_h.wav,a: high,39,0
+39-a_l.wav,a: low,39,0
+39-a_lhl.wav,a: low-high-low,39,0
+39-a_n.wav,a: natural,39,0
+39-i_h.wav,i: high,39,0
+39-i_l.wav,i: low,39,0
+39-i_lhl.wav,i: low-high-low,39,0
+39-i_n.wav,i: natural,39,0
+39-phrase.wav,"Guten Morgen, wie geht es dir?",39,0
+39-u_h.wav,u: high,39,0
+39-u_l.wav,u: low,39,0
+39-u_lhl.wav,u: low-high-low,39,0
+39-u_n.wav,u: natural,39,0
+42-a_h.wav,a: high,42,0
+42-a_l.wav,a: low,42,0
+42-a_lhl.wav,a: low-high-low,42,0
+42-a_n.wav,a: natural,42,0
+42-i_h.wav,i: high,42,0
+42-i_l.wav,i: low,42,0
+42-i_lhl.wav,i: low-high-low,42,0
+42-i_n.wav,i: natural,42,0
+42-phrase.wav,"Guten Morgen, wie geht es dir?",42,0
+42-u_h.wav,u: high,42,0
+42-u_l.wav,u: low,42,0
+42-u_lhl.wav,u: low-high-low,42,0
+42-u_n.wav,u: natural,42,0
+44-a_h.wav,a: high,44,0
+44-a_l.wav,a: low,44,0
+44-a_lhl.wav,a: low-high-low,44,0
+44-a_n.wav,a: natural,44,0
+44-i_h.wav,i: high,44,0
+44-i_l.wav,i: low,44,0
+44-i_lhl.wav,i: low-high-low,44,0
+44-i_n.wav,i: natural,44,0
+44-phrase.wav,"Guten Morgen, wie geht es dir?",44,0
+44-u_h.wav,u: high,44,0
+44-u_l.wav,u: low,44,0
+44-u_lhl.wav,u: low-high-low,44,0
+44-u_n.wav,u: natural,44,0
+45-a_h.wav,a: high,45,0
+45-a_l.wav,a: low,45,0
+45-a_lhl.wav,a: low-high-low,45,0
+45-a_n.wav,a: natural,45,0
+45-i_h.wav,i: high,45,0
+45-i_l.wav,i: low,45,0
+45-i_lhl.wav,i: low-high-low,45,0
+45-i_n.wav,i: natural,45,0
+45-phrase.wav,"Guten Morgen, wie geht es dir?",45,0
+45-u_h.wav,u: high,45,0
+45-u_l.wav,u: low,45,0
+45-u_lhl.wav,u: low-high-low,45,0
+45-u_n.wav,u: natural,45,0
+46-a_h.wav,a: high,46,0
+46-a_l.wav,a: low,46,0
+46-a_lhl.wav,a: low-high-low,46,0
+46-a_n.wav,a: natural,46,0
+46-i_h.wav,i: high,46,0
+46-i_l.wav,i: low,46,0
+46-i_lhl.wav,i: low-high-low,46,0
+46-i_n.wav,i: natural,46,0
+46-phrase.wav,"Guten Morgen, wie geht es dir?",46,0
+46-u_h.wav,u: high,46,0
+46-u_l.wav,u: low,46,0
+46-u_lhl.wav,u: low-high-low,46,0
+46-u_n.wav,u: natural,46,0
+47-a_h.wav,a: high,47,0
+47-a_l.wav,a: low,47,0
+47-a_lhl.wav,a: low-high-low,47,0
+47-a_n.wav,a: natural,47,0
+47-i_h.wav,i: high,47,0
+47-i_l.wav,i: low,47,0
+47-i_lhl.wav,i: low-high-low,47,0
+47-i_n.wav,i: natural,47,0
+47-phrase.wav,"Guten Morgen, wie geht es dir?",47,0
+47-u_h.wav,u: high,47,0
+47-u_l.wav,u: low,47,0
+47-u_lhl.wav,u: low-high-low,47,0
+47-u_n.wav,u: natural,47,0
+48-a_h.wav,a: high,48,0
+48-a_l.wav,a: low,48,0
+48-a_lhl.wav,a: low-high-low,48,0
+48-a_n.wav,a: natural,48,0
+48-i_h.wav,i: high,48,0
+48-i_l.wav,i: low,48,0
+48-i_lhl.wav,i: low-high-low,48,0
+48-i_n.wav,i: natural,48,0
+48-phrase.wav,"Guten Morgen, wie geht es dir?",48,0
+48-u_l.wav,u: low,48,0
+48-u_lhl.wav,u: low-high-low,48,0
+48-u_n.wav,u: natural,48,0
+49-a_l.wav,a: low,49,0
+49-a_lhl.wav,a: low-high-low,49,0
+49-i_h.wav,i: high,49,0
+49-i_n.wav,i: natural,49,0
+49-phrase.wav,"Guten Morgen, wie geht es dir?",49,0
+49-u_h.wav,u: high,49,0
+49-u_l.wav,u: low,49,0
+49-u_lhl.wav,u: low-high-low,49,0
+49-u_n.wav,u: natural,49,0
+50-a_h.wav,a: high,50,0
+50-a_l.wav,a: low,50,0
+50-a_lhl.wav,a: low-high-low,50,0
+50-a_n.wav,a: natural,50,0
+50-i_h.wav,i: high,50,0
+50-i_l.wav,i: low,50,0
+50-i_lhl.wav,i: low-high-low,50,0
+50-i_n.wav,i: natural,50,0
+50-phrase.wav,"Guten Morgen, wie geht es dir?",50,0
+50-u_h.wav,u: high,50,0
+50-u_l.wav,u: low,50,0
+50-u_lhl.wav,u: low-high-low,50,0
+50-u_n.wav,u: natural,50,0
+52-a_h.wav,a: high,52,0
+52-a_l.wav,a: low,52,0
+52-a_lhl.wav,a: low-high-low,52,0
+52-a_n.wav,a: natural,52,0
+52-i_h.wav,i: high,52,0
+52-i_lhl.wav,i: low-high-low,52,0
+52-i_n.wav,i: natural,52,0
+52-phrase.wav,"Guten Morgen, wie geht es dir?",52,0
+52-u_h.wav,u: high,52,0
+52-u_l.wav,u: low,52,0
+52-u_lhl.wav,u: low-high-low,52,0
+52-u_n.wav,u: natural,52,0
+54-a_h.wav,a: high,54,0
+54-a_l.wav,a: low,54,0
+54-a_lhl.wav,a: low-high-low,54,0
+54-a_n.wav,a: natural,54,0
+54-i_h.wav,i: high,54,0
+54-i_l.wav,i: low,54,0
+54-i_lhl.wav,i: low-high-low,54,0
+54-i_n.wav,i: natural,54,0
+54-phrase.wav,"Guten Morgen, wie geht es dir?",54,0
+54-u_h.wav,u: high,54,0
+54-u_l.wav,u: low,54,0
+54-u_lhl.wav,u: low-high-low,54,0
+54-u_n.wav,u: natural,54,0
+55-a_h.wav,a: high,55,0
+55-a_l.wav,a: low,55,0
+55-a_lhl.wav,a: low-high-low,55,0
+55-a_n.wav,a: natural,55,0
+55-i_h.wav,i: high,55,0
+55-i_l.wav,i: low,55,0
+55-i_lhl.wav,i: low-high-low,55,0
+55-i_n.wav,i: natural,55,0
+55-phrase.wav,"Guten Morgen, wie geht es dir?",55,0
+55-u_h.wav,u: high,55,0
+55-u_l.wav,u: low,55,0
+55-u_lhl.wav,u: low-high-low,55,0
+55-u_n.wav,u: natural,55,0
+56-a_h.wav,a: high,56,0
+56-a_l.wav,a: low,56,0
+56-a_lhl.wav,a: low-high-low,56,0
+56-a_n.wav,a: natural,56,0
+56-i_h.wav,i: high,56,0
+56-i_l.wav,i: low,56,0
+56-i_lhl.wav,i: low-high-low,56,0
+56-i_n.wav,i: natural,56,0
+56-phrase.wav,"Guten Morgen, wie geht es dir?",56,0
+56-u_h.wav,u: high,56,0
+56-u_l.wav,u: low,56,0
+56-u_lhl.wav,u: low-high-low,56,0
+56-u_n.wav,u: natural,56,0
+57-a_h.wav,a: high,57,0
+57-a_l.wav,a: low,57,0
+57-a_lhl.wav,a: low-high-low,57,0
+57-a_n.wav,a: natural,57,0
+57-i_h.wav,i: high,57,0
+57-i_l.wav,i: low,57,0
+57-i_lhl.wav,i: low-high-low,57,0
+57-i_n.wav,i: natural,57,0
+57-phrase.wav,"Guten Morgen, wie geht es dir?",57,0
+57-u_h.wav,u: high,57,0
+57-u_l.wav,u: low,57,0
+57-u_lhl.wav,u: low-high-low,57,0
+57-u_n.wav,u: natural,57,0
+58-a_h.wav,a: high,58,0
+58-a_l.wav,a: low,58,0
+58-a_lhl.wav,a: low-high-low,58,0
+58-a_n.wav,a: natural,58,0
+58-i_h.wav,i: high,58,0
+58-i_l.wav,i: low,58,0
+58-i_lhl.wav,i: low-high-low,58,0
+58-i_n.wav,i: natural,58,0
+58-phrase.wav,"Guten Morgen, wie geht es dir?",58,0
+58-u_h.wav,u: high,58,0
+58-u_l.wav,u: low,58,0
+58-u_lhl.wav,u: low-high-low,58,0
+58-u_n.wav,u: natural,58,0
+6-a_h.wav,a: high,6,0
+6-a_l.wav,a: low,6,0
+6-a_lhl.wav,a: low-high-low,6,0
+6-a_n.wav,a: natural,6,0
+6-i_h.wav,i: high,6,0
+6-i_l.wav,i: low,6,0
+6-i_lhl.wav,i: low-high-low,6,0
+6-i_n.wav,i: natural,6,0
+6-phrase.wav,"Guten Morgen, wie geht es dir?",6,0
+6-u_h.wav,u: high,6,0
+6-u_l.wav,u: low,6,0
+6-u_lhl.wav,u: low-high-low,6,0
+6-u_n.wav,u: natural,6,0
+62-a_h.wav,a: high,62,0
+62-a_l.wav,a: low,62,0
+62-a_lhl.wav,a: low-high-low,62,0
+62-a_n.wav,a: natural,62,0
+62-i_h.wav,i: high,62,0
+62-i_l.wav,i: low,62,0
+62-i_lhl.wav,i: low-high-low,62,0
+62-i_n.wav,i: natural,62,0
+62-phrase.wav,"Guten Morgen, wie geht es dir?",62,0
+62-u_h.wav,u: high,62,0
+62-u_l.wav,u: low,62,0
+62-u_lhl.wav,u: low-high-low,62,0
+62-u_n.wav,u: natural,62,0
+64-a_h.wav,a: high,64,0
+64-a_l.wav,a: low,64,0
+64-a_lhl.wav,a: low-high-low,64,0
+64-a_n.wav,a: natural,64,0
+64-i_h.wav,i: high,64,0
+64-i_l.wav,i: low,64,0
+64-i_lhl.wav,i: low-high-low,64,0
+64-i_n.wav,i: natural,64,0
+64-phrase.wav,"Guten Morgen, wie geht es dir?",64,0
+64-u_h.wav,u: high,64,0
+64-u_l.wav,u: low,64,0
+64-u_lhl.wav,u: low-high-low,64,0
+64-u_n.wav,u: natural,64,0
+65-a_h.wav,a: high,65,0
+65-a_l.wav,a: low,65,0
+65-a_lhl.wav,a: low-high-low,65,0
+65-a_n.wav,a: natural,65,0
+65-i_h.wav,i: high,65,0
+65-i_l.wav,i: low,65,0
+65-i_lhl.wav,i: low-high-low,65,0
+65-i_n.wav,i: natural,65,0
+65-phrase.wav,"Guten Morgen, wie geht es dir?",65,0
+65-u_h.wav,u: high,65,0
+65-u_l.wav,u: low,65,0
+65-u_lhl.wav,u: low-high-low,65,0
+65-u_n.wav,u: natural,65,0
+7-a_h.wav,a: high,7,0
+7-a_l.wav,a: low,7,0
+7-a_lhl.wav,a: low-high-low,7,0
+7-a_n.wav,a: natural,7,0
+7-i_h.wav,i: high,7,0
+7-i_l.wav,i: low,7,0
+7-i_lhl.wav,i: low-high-low,7,0
+7-i_n.wav,i: natural,7,0
+7-phrase.wav,"Guten Morgen, wie geht es dir?",7,0
+7-u_h.wav,u: high,7,0
+7-u_l.wav,u: low,7,0
+7-u_lhl.wav,u: low-high-low,7,0
+7-u_n.wav,u: natural,7,0
+70-a_l.wav,a: low,70,0
+70-a_lhl.wav,a: low-high-low,70,0
+70-a_n.wav,a: natural,70,0
+70-i_h.wav,i: high,70,0
+70-i_l.wav,i: low,70,0
+70-i_lhl.wav,i: low-high-low,70,0
+70-i_n.wav,i: natural,70,0
+70-phrase.wav,"Guten Morgen, wie geht es dir?",70,0
+70-u_h.wav,u: high,70,0
+70-u_l.wav,u: low,70,0
+70-u_lhl.wav,u: low-high-low,70,0
+70-u_n.wav,u: natural,70,0
+71-a_h.wav,a: high,71,0
+71-a_l.wav,a: low,71,0
+71-a_lhl.wav,a: low-high-low,71,0
+71-a_n.wav,a: natural,71,0
+71-i_h.wav,i: high,71,0
+71-i_l.wav,i: low,71,0
+71-i_lhl.wav,i: low-high-low,71,0
+71-i_n.wav,i: natural,71,0
+71-phrase.wav,"Guten Morgen, wie geht es dir?",71,0
+71-u_h.wav,u: high,71,0
+71-u_l.wav,u: low,71,0
+71-u_lhl.wav,u: low-high-low,71,0
+71-u_n.wav,u: natural,71,0
+72-a_h.wav,a: high,72,0
+72-a_l.wav,a: low,72,0
+72-a_lhl.wav,a: low-high-low,72,0
+72-a_n.wav,a: natural,72,0
+72-i_h.wav,i: high,72,0
+72-i_l.wav,i: low,72,0
+72-i_lhl.wav,i: low-high-low,72,0
+72-i_n.wav,i: natural,72,0
+72-phrase.wav,"Guten Morgen, wie geht es dir?",72,0
+72-u_h.wav,u: high,72,0
+72-u_l.wav,u: low,72,0
+72-u_lhl.wav,u: low-high-low,72,0
+72-u_n.wav,u: natural,72,0
+77-a_h.wav,a: high,77,0
+77-a_l.wav,a: low,77,0
+77-a_lhl.wav,a: low-high-low,77,0
+77-a_n.wav,a: natural,77,0
+77-i_h.wav,i: high,77,0
+77-i_l.wav,i: low,77,0
+77-i_lhl.wav,i: low-high-low,77,0
+77-i_n.wav,i: natural,77,0
+77-phrase.wav,"Guten Morgen, wie geht es dir?",77,0
+77-u_h.wav,u: high,77,0
+77-u_l.wav,u: low,77,0
+77-u_lhl.wav,u: low-high-low,77,0
+77-u_n.wav,u: natural,77,0
+78-a_h.wav,a: high,78,0
+78-a_l.wav,a: low,78,0
+78-a_lhl.wav,a: low-high-low,78,0
+78-a_n.wav,a: natural,78,0
+78-i_h.wav,i: high,78,0
+78-i_l.wav,i: low,78,0
+78-i_lhl.wav,i: low-high-low,78,0
+78-i_n.wav,i: natural,78,0
+78-phrase.wav,"Guten Morgen, wie geht es dir?",78,0
+78-u_h.wav,u: high,78,0
+78-u_l.wav,u: low,78,0
+78-u_lhl.wav,u: low-high-low,78,0
+78-u_n.wav,u: natural,78,0
+79-a_l.wav,a: low,79,0
+79-a_lhl.wav,a: low-high-low,79,0
+79-i_h.wav,i: high,79,0
+79-i_n.wav,i: natural,79,0
+79-phrase.wav,"Guten Morgen, wie geht es dir?",79,0
+79-u_h.wav,u: high,79,0
+79-u_l.wav,u: low,79,0
+79-u_lhl.wav,u: low-high-low,79,0
+79-u_n.wav,u: natural,79,0
+8-a_h.wav,a: high,8,0
+8-a_l.wav,a: low,8,0
+8-a_lhl.wav,a: low-high-low,8,0
+8-a_n.wav,a: natural,8,0
+8-i_h.wav,i: high,8,0
+8-i_l.wav,i: low,8,0
+8-i_lhl.wav,i: low-high-low,8,0
+8-i_n.wav,i: natural,8,0
+8-phrase.wav,"Guten Morgen, wie geht es dir?",8,0
+8-u_h.wav,u: high,8,0
+8-u_l.wav,u: low,8,0
+8-u_lhl.wav,u: low-high-low,8,0
+8-u_n.wav,u: natural,8,0
+80-a_h.wav,a: high,80,0
+80-a_l.wav,a: low,80,0
+80-a_lhl.wav,a: low-high-low,80,0
+80-a_n.wav,a: natural,80,0
+80-i_h.wav,i: high,80,0
+80-i_l.wav,i: low,80,0
+80-i_lhl.wav,i: low-high-low,80,0
+80-i_n.wav,i: natural,80,0
+80-phrase.wav,"Guten Morgen, wie geht es dir?",80,0
+80-u_h.wav,u: high,80,0
+80-u_l.wav,u: low,80,0
+80-u_lhl.wav,u: low-high-low,80,0
+80-u_n.wav,u: natural,80,0
+82-a_h.wav,a: high,82,0
+82-a_l.wav,a: low,82,0
+82-a_lhl.wav,a: low-high-low,82,0
+82-a_n.wav,a: natural,82,0
+82-i_h.wav,i: high,82,0
+82-i_l.wav,i: low,82,0
+82-i_lhl.wav,i: low-high-low,82,0
+82-i_n.wav,i: natural,82,0
+82-phrase.wav,"Guten Morgen, wie geht es dir?",82,0
+82-u_h.wav,u: high,82,0
+82-u_l.wav,u: low,82,0
+82-u_lhl.wav,u: low-high-low,82,0
+82-u_n.wav,u: natural,82,0
+83-a_h.wav,a: high,83,0
+83-a_l.wav,a: low,83,0
+83-a_lhl.wav,a: low-high-low,83,0
+83-a_n.wav,a: natural,83,0
+83-i_h.wav,i: high,83,0
+83-i_l.wav,i: low,83,0
+83-i_lhl.wav,i: low-high-low,83,0
+83-i_n.wav,i: natural,83,0
+83-phrase.wav,"Guten Morgen, wie geht es dir?",83,0
+83-u_h.wav,u: high,83,0
+83-u_l.wav,u: low,83,0
+83-u_lhl.wav,u: low-high-low,83,0
+83-u_n.wav,u: natural,83,0
+84-a_h.wav,a: high,84,0
+84-a_l.wav,a: low,84,0
+84-a_lhl.wav,a: low-high-low,84,0
+84-a_n.wav,a: natural,84,0
+84-i_h.wav,i: high,84,0
+84-i_l.wav,i: low,84,0
+84-i_lhl.wav,i: low-high-low,84,0
+84-i_n.wav,i: natural,84,0
+84-phrase.wav,"Guten Morgen, wie geht es dir?",84,0
+84-u_h.wav,u: high,84,0
+84-u_l.wav,u: low,84,0
+84-u_lhl.wav,u: low-high-low,84,0
+84-u_n.wav,u: natural,84,0
+86-a_h.wav,a: high,86,0
+86-a_l.wav,a: low,86,0
+86-a_lhl.wav,a: low-high-low,86,0
+86-a_n.wav,a: natural,86,0
+86-i_h.wav,i: high,86,0
+86-i_l.wav,i: low,86,0
+86-i_lhl.wav,i: low-high-low,86,0
+86-i_n.wav,i: natural,86,0
+86-phrase.wav,"Guten Morgen, wie geht es dir?",86,0
+86-u_h.wav,u: high,86,0
+86-u_l.wav,u: low,86,0
+86-u_lhl.wav,u: low-high-low,86,0
+86-u_n.wav,u: natural,86,0
+88-a_h.wav,a: high,88,0
+88-a_l.wav,a: low,88,0
+88-a_lhl.wav,a: low-high-low,88,0
+88-a_n.wav,a: natural,88,0
+88-i_h.wav,i: high,88,0
+88-i_l.wav,i: low,88,0
+88-i_lhl.wav,i: low-high-low,88,0
+88-i_n.wav,i: natural,88,0
+88-phrase.wav,"Guten Morgen, wie geht es dir?",88,0
+88-u_h.wav,u: high,88,0
+88-u_l.wav,u: low,88,0
+88-u_lhl.wav,u: low-high-low,88,0
+88-u_n.wav,u: natural,88,0
+89-a_h.wav,a: high,89,0
+89-a_l.wav,a: low,89,0
+89-a_lhl.wav,a: low-high-low,89,0
+89-a_n.wav,a: natural,89,0
+89-i_h.wav,i: high,89,0
+89-i_l.wav,i: low,89,0
+89-i_lhl.wav,i: low-high-low,89,0
+89-i_n.wav,i: natural,89,0
+89-phrase.wav,"Guten Morgen, wie geht es dir?",89,0
+89-u_h.wav,u: high,89,0
+89-u_l.wav,u: low,89,0
+89-u_lhl.wav,u: low-high-low,89,0
+89-u_n.wav,u: natural,89,0
+90-a_h.wav,a: high,90,0
+90-a_l.wav,a: low,90,0
+90-a_lhl.wav,a: low-high-low,90,0
+90-a_n.wav,a: natural,90,0
+90-i_h.wav,i: high,90,0
+90-i_l.wav,i: low,90,0
+90-i_lhl.wav,i: low-high-low,90,0
+90-i_n.wav,i: natural,90,0
+90-phrase.wav,"Guten Morgen, wie geht es dir?",90,0
+90-u_h.wav,u: high,90,0
+90-u_l.wav,u: low,90,0
+90-u_lhl.wav,u: low-high-low,90,0
+90-u_n.wav,u: natural,90,0
+91-a_h.wav,a: high,91,0
+91-a_l.wav,a: low,91,0
+91-a_lhl.wav,a: low-high-low,91,0
+91-a_n.wav,a: natural,91,0
+91-i_h.wav,i: high,91,0
+91-i_l.wav,i: low,91,0
+91-i_lhl.wav,i: low-high-low,91,0
+91-i_n.wav,i: natural,91,0
+91-phrase.wav,"Guten Morgen, wie geht es dir?",91,0
+91-u_h.wav,u: high,91,0
+91-u_l.wav,u: low,91,0
+91-u_lhl.wav,u: low-high-low,91,0
+91-u_n.wav,u: natural,91,0
+93-a_h.wav,a: high,93,0
+93-a_l.wav,a: low,93,0
+93-a_lhl.wav,a: low-high-low,93,0
+93-a_n.wav,a: natural,93,0
+93-i_h.wav,i: high,93,0
+93-i_l.wav,i: low,93,0
+93-i_lhl.wav,i: low-high-low,93,0
+93-i_n.wav,i: natural,93,0
+93-phrase.wav,"Guten Morgen, wie geht es dir?",93,0
+93-u_h.wav,u: high,93,0
+93-u_l.wav,u: low,93,0
+93-u_lhl.wav,u: low-high-low,93,0
+93-u_n.wav,u: natural,93,0
+94-a_h.wav,a: high,94,0
+94-a_l.wav,a: low,94,0
+94-a_lhl.wav,a: low-high-low,94,0
+94-a_n.wav,a: natural,94,0
+94-i_h.wav,i: high,94,0
+94-i_l.wav,i: low,94,0
+94-i_lhl.wav,i: low-high-low,94,0
+94-i_n.wav,i: natural,94,0
+94-phrase.wav,"Guten Morgen, wie geht es dir?",94,0
+94-u_h.wav,u: high,94,0
+94-u_l.wav,u: low,94,0
+94-u_lhl.wav,u: low-high-low,94,0
+94-u_n.wav,u: natural,94,0
+95-a_h.wav,a: high,95,0
+95-a_l.wav,a: low,95,0
+95-a_lhl.wav,a: low-high-low,95,0
+95-a_n.wav,a: natural,95,0
+95-i_h.wav,i: high,95,0
+95-i_l.wav,i: low,95,0
+95-i_lhl.wav,i: low-high-low,95,0
+95-i_n.wav,i: natural,95,0
+95-phrase.wav,"Guten Morgen, wie geht es dir?",95,0
+95-u_h.wav,u: high,95,0
+95-u_l.wav,u: low,95,0
+95-u_lhl.wav,u: low-high-low,95,0
+95-u_n.wav,u: natural,95,0
+97-a_h.wav,a: high,97,0
+97-a_l.wav,a: low,97,0
+97-a_lhl.wav,a: low-high-low,97,0
+97-a_n.wav,a: natural,97,0
+97-i_h.wav,i: high,97,0
+97-i_l.wav,i: low,97,0
+97-i_lhl.wav,i: low-high-low,97,0
+97-i_n.wav,i: natural,97,0
+97-phrase.wav,"Guten Morgen, wie geht es dir?",97,0
+97-u_h.wav,u: high,97,0
+97-u_l.wav,u: low,97,0
+97-u_lhl.wav,u: low-high-low,97,0
+97-u_n.wav,u: natural,97,0
+99-a_h.wav,a: high,99,0
+99-a_l.wav,a: low,99,0
+99-a_lhl.wav,a: low-high-low,99,0
+99-a_n.wav,a: natural,99,0
+99-i_h.wav,i: high,99,0
+99-i_l.wav,i: low,99,0
+99-i_lhl.wav,i: low-high-low,99,0
+99-i_n.wav,i: natural,99,0
+99-phrase.wav,"Guten Morgen, wie geht es dir?",99,0
+99-u_h.wav,u: high,99,0
+99-u_l.wav,u: low,99,0
+99-u_lhl.wav,u: low-high-low,99,0
+99-u_n.wav,u: natural,99,0
+滨江水岸社区卫生服务站 14.wav,发音的先是高音的e—wu—e—，好的，接下来是低音记，你再给我提醒一下啊，你ma—、呜，然后是自然音，就是您平常说话时候的发音，叫什么？讲话了就是就是讲话时候的医生。你好，这是E，这样。e—、a—、wu—，好的，好的。嗯，接下来是高低，高的是一一，这样，一二，呜呜。嗯，好的。最后是那这首诗啊，这这我背的出的床前明月床，床，床前明月光，疑是地下霜，抬头望明月，低头思故乡。,HC,0
+滨江水岸社区卫生服务站 2.wav,e—a—wu--,HC,0
+滨江水岸社区卫生服务站 3.wav,e—a—wu--,HC,0
+滨江水岸社区卫生服务站 4.wav,e—a—wu--,HC,0
+滨江水岸社区卫生服务站.wav,e—a—wu--,HC,0
+ID00_hc_0_0_0_trimmed.wav,"Okay hello hi yeah I in London famous shopping and a lot of boring there there londonham where the queen live today, where the royal family come and the big Ben the parliament where the government and.Good and the London eye wait see the whole of London go London, visit London I think ill go by public use how London really is.I really.Get on like an open to we see the whole London yeah, yeah, okay",KCL_Spontaneous_HC,0
+ID00_hc_0_0_0.wav,hey the The North Wind and the sun with disability which was the stronger when a traveler came along rat in a warm clothes they agree that the one who first seated in making the traveler take his clothes off should be considered stronger than the other then the north wind blew as hard as he could but the more he played the movie gave up the temperature's in geography matter what page 100 100 224 979 of the incoming radiation is the same reasons the Sun appears to be white comma 567 of the path of electronic engineering and energy in the visible from the Sun to the Earth again on the ground where else in fact it has not because some of them have been started with atmosphere,KCL_Text_HC,0
+ID01_hc_0_0_0_trimmed.wav,"Okay, um, um, so you want, you want to know what places would be nice to visit in London? Yeah, okay, well, um, there are several places you visit in London.You know, the world famous square, um, there is also, um, the famous Oxford streets where people go a lot shopping, um, as well as places like knightsbridge about in and around London as well from just those sightseeing areas from for me, um, I also like to, to look at areas where, you know, in and around London like those places, there are also nice restaurants and theaters as well. Um, for you to go to not just the site but you know, place, I would recommend you go by shoe because it's a in times of, in terms of traveling time because of the traffic really okay",KCL_Spontaneous_HC,0
+ID01_hc_0_0_0.wav,hello hello yes PNC tech engine computer applications in geography this is because there is less scattering of blue light as the atmospheric path length and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be white as the observer's altitude increases this is because a greater proportion of the sunlight comes directly to the observer's I figure 5.7 is a schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and back again to what's a sensor mounted on an orbiting satellite the paths of ways representing energy prune to scattering that is the shorter wavelengths as it travels from Sun to Earth are shown to the center it appears that all the energy has been reflected from point p on the ground whereas in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all North Wind and The Sun Also graphic version The North Wind and the sun were disputing which was the stronger when a traveler came along Route in a warm cloak they agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other than the north wind blew is hard as he could but the more he blew the more closely did The Traveler fold his cloak around him and at last The North Wind gave up the attempt then the sunshine out warmly and immediately The Traveler took off his cloak and so the north wind was obliged to confess that the sun was the stronger of the two thank you,KCL_Text_HC,0
+ID02_pd_2_0_0_trimmed.wav,hello are you ready this is because there is less suffering a blue light as the atmosphere to the same reason the sun is white and less orange figure 5.77,KCL_Text_PD,1
+ID02_pd_2_0_0.wav,"So this is your your first time in London, you'VE never been here before, so what, what sort of things are you interested in?Some nice buildings well, London has many, many interesting buildings because the city has been around for a very long time, so perhaps you could start by going to the tower of London.Which is on the river and that's a originally a Roman building which was it's very nice, bit expensive to get into, but you have to cue for a long while as well.But if you want modern buildings, then there are two places you can go, you can go to the city, city of London.Find modern buildings, the name they named after strange things, the the one that looks like a giant cigar is in fact called the gherkin Richard Rogers was the architect for that one, there's another one which is in the shape of a walkie talkie, and another one which is wide at the bottom and narrow at the top is called the cheese grater, but the the one that dominates the skyline skyline I think it's the tallest building in Europe is the.Shard which was designed by an Italian architect and you can take a lift up to, you can take 嗯。Well, the tube is interesting. I know some tourists find it difficult to navigate on the tube. Um, but once you get a hang of the connections and where you get off one station to transfer onto another line, uh, it it'LL work for you. The bus is good for seeing what's going on outside and there are some very good tourist buses, you can hop on and off like he can in most big cities. Really? Yeah.Okay, thank you.Good, okaya lift up to about two thirds of the way up and get fantastic views you can also buy very expensive drinks um but.",KCL_Spontaneous_PD,1
+ID03_hc_0_0_0_trimmed.wav,unrecognized,KCL_Spontaneous_HC,0
+ID03_hc_0_0_0.wav,okay,KCL_Text_HC,0
+ID04_pd_2_0_1_trimmed.wav,I know you fine thank you you can you hear me okay you're on the headings as well the headings at the top just texted the first one is this is because there was less the same reasons orange juice and the sun would disputing which is stronger in the traveling along Route that the one who first succeeded to make chocolate into stronger than the other and the north was he good morning the last North Carolina to,KCL_Text_PD,1
+ID04_pd_2_0_1.wav,"OK, can you some places I should when I want to see? Yes, yes, I when I'VE, I'VE been asked that question before by other visitors.And I, I like to go to suggest people take a river boat trip down from the tower of London, which today I will start building down to Greenwich and then walk up the hill on to see green observator and look back across the skyscapeper, London from there, I think that's a great way of seeing a lot of London.Yeah, okay, and you recommend to travel London by well, um, I would suggest.Well bus is more interesting because you see more, but tubes are more direct and probably quicker for longer distances. So bit about really depending where you want to get somewhere fast so you want to have plenty of time and you want to see buildings as you travel around, buses are great.You don't see much on the tube, right? See other how other people dress and what they like but no see much much London really? You see a lot by bus? Yeah favorite sports sport? Oh, I am a football fan yes, I must admit for my sins I support him from great can you can you explain the game to me? Soccer um.That yeah, sure, sure, yeah it soccer is a team game between 11 people on either side defending a goal, which is some with playing with a ball by foot basically you can't touch it with your hands trying to get the ball into the opponent's goal. Yes, it's a interesting game to try and explain, but not as cree. Okay.",KCL_Spontaneous_PD,1
+ID05_hc_0_0_0_trimmed.wav,"Um, I don't see the London is um, they hold on and there's a nearby that is our and there's a nice walk along there other be quite nice you see, let's you go by but I think you more I'm not really into but I don't mind sometimes like not really but oh I have no idea like eleven, maybe eleven.And government yeah, so yeah, I have a favorite at home and it's um, like a turquoise color, it more like form, like work, its a little bit okay",KCL_Spontaneous_HC,0
+ID05_hc_0_0_0.wav,hello can you hear me yeah ok google okay this is because there is less scattering of blue light as the atmospheric path length and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be whiter than us orange colored is observe is altitude increases this is because the girls to proportion of the sunlight comes directly to the observer's I figure 5.7 is a schematic representation of the path of electronic magnetic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the center of an orbiting satellite the paths of waves representing energy producer and that is the shot of the sensory appears that all the energy has been reflected from point p and the ground where is in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all and then she'll start with the second one The North Wind and the sun was disputing which was the stronger when a traveler came along in a warm clock they agreed that the one who first succeeded in making The Travelers clock off should be considered stronger than the other than the North as he could but the more he blew the more closer to The Travelers Club around him and that last The North Wind gave up at the sunshine at warmly and immediately the travel took off his clock and so the north wind was obliged to confess that the sun was a stronger of the two,KCL_Text_HC,0
+ID06_pd_3_1_1_trimmed.wav,North Wind and the sun orthographic version The North Wind and the sun were disputing which was the stronger when the traveler came along wrapped in a warm clothes they agreed that the one who has succeeded in making the traveler take us to be considered stronger than the other than the north wind blew as hard as he could but the more he blew the more closely to the travels around him and his last name then the sunshine out warmly and immediately was obligation engineering Computer Applications 19919799.7 is a schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth satellite Indiana,KCL_Text_PD,1
+ID06_pd_3_1_1.wav,so it's my first time in London by the way it is maybe you can recommend some places I can visit if I want 9:30 okay well the first one that comes to mind is the Tower of London which is across which is across from the south of London and then many historical events of taking place the other place that is in the western London is Hampton Court have you heard of that okay then again in the center in the center of the tallest building in Europe is called London Bridge station and then if you yes Wellington Court but I guess if you want to see the surrounding area it's better to be on the bus but it'll take a lot longer okay,KCL_Spontaneous_PD,1
+ID07_pd_2_0_0_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID07_pd_2_0_0.wav,okay well first of all welcome to London and some of the places some of the places that I would recommend the British museum is a fantastic collection of salts and then the museum area of the Victoria and Albert and national natural history and science museum of lights up near Hyde Park of very interesting and then if you go one thing that I've enjoyed doing in the past is to get the docklands light Railway through these is now Canary Wharf in the new Industrial Area period to get to the British museum in the sun's Museum the East End of London I would suggest going on the docklands flight Railway I'll be making it difficult for you and say I prefer Cricket but it could be football football there is a very famous explanation of crickets about when people are in their house and when they're out there in but it's a case of very interesting in the music to read but it's quite a complicated game with a bowler and the Fielding side trying to pull out the side this boxing and trying to score runs and the objective is to school run more runs from one side than the other but you can be called out they're all sorts of interesting but it's very time-consuming it can go on for 5 days so it's a bit longer than a game of football,KCL_Spontaneous_PD,1
+ID08_hc_0_0_0_trimmed.wav,"Okay, okay, yeah, about what? Sorry about what? Where I come from? Yes, I come from north Germany. Um, I grown up there but my parents, I was born in which is in east Germany. My parents came over before the war was and they fled, we stayed in a refugee camp and.Then my parents were okay, I came to England.We met when I was in a care for three months during my studies.Here and so we get and then we live abroad for a few years and so.You walking around really is lovely. You can go to the be.Where we are is another, so I can recommend you, you can take.Yeah, okay",KCL_Spontaneous_HC,0
+ID08_hc_0_0_0.wav,consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be whiter and less orange colored as the observer's altered increases this is because a greater proportion of the sunlight comes directly to the observer's I figure 57 is a schematic representation of the path of electromagnetic energy in the visible spectrum as a travel from the Sun to the Earth and Back Again towards a center mounted on an overtone the paths of waves representing energy prone to scattering that is the shorter wavelengths as it travels from Sun to Earth are shown to the sensor it appears that all the energy has been reflected from point p on the ground where is and facts it has not because some has been scattered within the atmosphere and had never reached the ground at all,KCL_Text_HC,0
+ID09_hc_0_0_0_trimmed.wav,"So in London there are places are really, but I would always say that its a really nice bras downstairs old style model, and also so that all the in the similarity and there is also another going from here to your",KCL_Spontaneous_HC,0
+ID09_hc_0_0_0.wav,yeah I can hear you very well the Northwestern the one who first succeeded in making the traveler take off his take his clothes off should be considered stronger than the other then the north wind blew is hard as he could but the more he blew the more closely did The Traveler hold his cloak around him and at last The North Wind gave up the attempt then the sunshine out warmly and immediately The Traveler took off his clothes and so the north wind was obliged to confess that the sun was the stronger of the two this yeah the next one this is because there is less scattering of blue light as the atmospheric path length and consequently the degree of the scattering of the incoming radiation is reduced for the same reason the Sun appears to be whiter and less orange color does the observer's altitude increases this is because a greater proportion of the sunlight comes directly to the observer's I figure 5.7 is a schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and back again to the center mounted on an orbiting satellite the path of waves representing energy prone to scattering that is the shorter wavelength as it travels from the Sun to Earth as shown to the sensor appears that all the energy has been reflected from point p on the ground whereas in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID10_hc_0_0_0_trimmed.wav,"I guess I would say I like London, I like green beach green which is a small city nearby and you can send the data and you can be garden within the c I s days off. I like yoga so I have been practicing yoga okay you mean about yeah, I like youga and I have been ping youga since ten years ago and why I like yoga, basically it help me to relax and also improve my and I would recommend other people to pick up your guy. Yeah I am a neurologist, I'm currently in London for a year but I I and before this I have been I would say all this year have yeah, so I have since I my training is set on and then I need to take same medicine then subsequently actualology then I come here for study, okay, yeah you",KCL_Spontaneous_HC,0
+ID10_hc_0_0_0.wav,yes I can hear you so I need to read the two paragraph right okay let me begin with the first one North Wind and the sun The North Wind and the sun was disputing which was the stronger when a traveler came along right in a warm clock they agree that the one who first succeeded in making the traveler take his clock off should be considered stronger than the other than the north wind blew as hard as he could but more closely around here and at last the North Phoenix give up the time then the sunshine out warmly and immediately The Travelers club and so the north wind was applied to confess that the sun was the stronger of the two okay this is because that is less Catherine of blue light as the atmospheric Park Lane and consequently the degree of Catherine of the incoming radiation is reduced for the same reason the Sun appears to be white and less orange color as the observer's attitude increases this is because a greater proportion of the sunlight comes directly to the Observer eyes figure 5.7 is a schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the center Mountain on an operating satellite the path of wave representing energy to catering that is the shortest wavelength as it travels from Sun to Earth Ashton to the center it appears that all the energy has been reflected from point p on the ground where is in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID11_hc_0_0_0_trimmed.wav,What are you interested in then? London? You go to the shop in London bridge you take you.So I work in.So I have a,KCL_Spontaneous_HC,0
+ID11_hc_0_0_0.wav,hello can you hear me yes I can hear you well OK Google of scattering of the incoming radiation is reduced for his name is Sonic appears to be wiser and last orange as the service altitude increases this is because a graceful portion of the sunlight comes directly to the observer's 5.7 is a schematic representation of the path of the Electric magnetic energy in the visible spectrum as it travels from the Sun to the Earth again satellite the pathways representing energy princess has been reflected from point p on the ground whereas in fact it has not because some has been scattered within the atmosphere and has never reached The Grand Tour The North Wind and the sun were disputing which was the stronger when a traveler came along wrapped in a warm cloak they agreed that the one who first succeeded in making the traveler take his clothes off should be considered stronger than the other than the north wind blew as hot as he could but the more he blew the more closely did The Traveler fold his clothes around him and that lost the north wind gave up the attempt then the sunshine out warmly and immediately The Traveler took off his cloak and so the north wind was obliged to confess that the sun was Stronger was the stronger of the two,KCL_Text_HC,0
+ID12_hc_0_0_0_trimmed.wav,"Well I think all the common birthdays are very nice like London I I along the house very nice, the museums are perfect London try to speak as much as I can or yeah the museums are very nice I don't know if you like art or iron.Museum is very nice, the national gallery visit and I would recommend to travel there by bus to see a little bit about environment, but otherwise and so I am a doctor and I have money and I.I and our is some so my special.This city on my okay, thank you. Bye",KCL_Spontaneous_HC,0
+ID12_hc_0_0_0.wav,hello can you hear me yeah ok Google this is because there's less scattering of blue light as the atmospheric path length and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be right and less orange observer's altitude increases this is because a greater proportion of the sunlight comes directly to the observer's I figure 5.766 representation of the path of electromagnetic energy in the visible spectrum as a travel from the Sun to the Earth and back again to work Senza mounted on objecting satellite the path of waves representing energy prone to sketching that is the shorter wavelength as a travel from Sun to Earth as shown to the center of the Pierce that all the energy has been reflected from point p on the ground first in fact it has not because some has been scheduled within the atmosphere and has never reached the ground at all no husband and son the Norsemen and the San Francisco disputing which was the stronger and the traveler came along with the one who first succeeded in making the trailer of should be considered stronger than the other than the husband blue as hard as he could but the more he blew the more closely did The Traveler fold his clothes around him and it lasts the Northland gave up the temperature outside of the two,KCL_Text_HC,0
+ID13_pd_3_2_2_trimmed.wav,what does the New England Patriots definition,KCL_Text_PD,1
+ID13_pd_3_2_2.wav,NetSpend maybe we can try to download it's my first time by the way maybe you can recommend some places in traffic weather,KCL_Spontaneous_PD,1
+ID14_hc_0_0_0.wav,224 19799 and consequently is a degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be white and less orange colored as the observer's altitude increases this is because a great proportion of sunlight comes directly to the observer's I figure for 577 is the schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the sons of the earth and Back Again towards the center of the satellite the pathways of representing energy princess has been reflected from point p on the ground whereas in fact it has not because some has been scattered with in the atmosphere and has never reached the whole passage two-letter take his should be considered a stronger than the other then the Northland police the more closely The Traveler did fold his clothes around him and last The North Wind gave up the attempt then the sunshine out warmly and immediately The Traveler and the north wind was obliged to confess that the sun was the stronger of the two,KCL_Text_HC,0
+ID14_hc_0_0_0.wav,"Thankyou.Okay.Absolutely. There are many many places now I can hear in your accent that you are not from the u k anyway, so um, and German so.And I can, I, I'm gonna be really stereotypical and say, you'VE got to try some beers because if you from Germany, you must love beer I would say I'm not, not the best at finding places myself, so the best to is Google.A pub crawl, there are some absolutely fabulous pubs, theyre wonderful the architecture gray, you can go to some um, some John Smith's pus.。Ah, but they, they don sound nice, but the landlords of the pubs are always really fabulous and they'll tell you the history so there's a bit of a haunting in their pub. They'll be very happy to let you know that um, this nice information. Thank you. Do you have how I can get there efficient by train? Do you know when, when in London I always stay above ground. Um, the architecture is lovely.They the people said not to be so friendly, but they are you smile and say hello, they'll say hello back and I probably end up in a strange conversation a bus stop so stay above ground about if it's a longer distance, keep a lookout all the buses um will now give you the stops that they stopping at it's just an automated, it will say park lane or wherever you are so it gives landmarks or walk because.",KCL_Spontaneous_HC,0
+ID15_hc_0_0_0_trimmed.wav,"Great, um, now we I so yes, I absolutely you should go and visit some of the London landmarks such as the big Ben, buckingham palace and PRO swe and also there are some very nice museums where you can go.Go and slow as for example you can visit the British museum and the al museum, all the science museum in addition you could just walk around and along famous streets and like a main roads, such as out SAS and piilly SAS and finally you can walk by by the river. This is a very nice proinade from a well from embament to the tow would you by rail or by um",KCL_Spontaneous_HC,0
+ID15_hc_0_0_0.wav,hello can you hear me yes ok google okay this is because there is less scattering of blue light as the atmospheric path length and consecutive and consequently the degree of scattering of the incoming round the ocean is reduced for the same reason the Sun appears to be white and less orange colored as the service altitude increases this is because a greater proportion of the sunlight comes directly to the observer's I figure 5.7 is a hematic representation of the path of electromagnetic energy in the visible spectrum as he travels from the Sun to the Earth and Back Again towards a sensor mounted on an orbiting satellite the paths of ways representing energy prone to scattering that is the sort of wavelengths as it travels from Sun to Earth and stone are shown to the center of peace that all the energy has been reflected for Point pay on the ground where is in fact it has not because some has been scouted within the atmosphere and has never reached the ground at home The North Wind and the sun were disputing which was the stronger when a traveler came along robbed in a warm clock they agreed that the 10068 in making the traveler take his cloak of should be considered stronger than the other than the Northwest blue as hard as he could but the more he blew the more closely Traveller fold his clock around him and at last the Northwest gave up the attempt then the sun shown out warmly and immediately The Traveler took off his cloak and so the north wind was obliged to confess that the sun was the stronger of the two,KCL_Text_HC,0
+ID16_pd_2_0_0_trimmed.wav,the same reason the sun is to be white and less orange as the Observer to increase this is because great about the sunlight comes directly to the Observer side figure 5.67 is a semantic representative in the visible thing as he travels from the Sun to the Earth and Back Again Sports Center on an orbiting satellite parts of wave representing that is shorter wavelength as it travels from Sun to the center it appears that all the energy has been reflected from point p on the ground whereas in fact it has not been in the atmosphere and his never read,KCL_Text_PD,1
+ID16_pd_2_0_0.wav,okay question mark,KCL_Spontaneous_PD,1
+ID17_pd_2_1_0_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID17_pd_2_1_0.wav,now I would like to watch some cartoons for Chinese so I will start with a question and I'd ask you to answer it so it's my first time in London can you recommend some nice places I can visit for example say that again hospital hospital,KCL_Spontaneous_PD,1
+ID18_pd_4_3_3_trimmed.wav,wind and the sun will this evening with the stranger came along with in the world,KCL_Text_PD,1
+ID19_hc_0_0_0_trimmed.wav,"Well there are so many nice building, get yourself a good man and warm. There is so much to see in London and you can choose any building you want when I love the British museum, a bus because you can see as it's going through you can see the rest of London, I was a teacher, I'm now retired, I was a teacher junior",KCL_Spontaneous_HC,0
+ID19_hc_0_0_0.wav,yes I can The North Wind and The Sun Will disputing which was the stronger when a Traveller came out as he could but the more he blew the more closely did The Traveler fold his clothes around him and at last The North Wind gave up the attempt then the sunshine out warmly and immediately The Travelers clothes and so the north wind was obliged to confess that the sun was the stronger of the two BNC Tech Engine Computer Applications this is because there is less scattering of blue light as the atmospheric path events and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be whiter and less orange colored as the observer's altitude increases this is because a greater proportion of the sunlight comes directly to the observer's I figure of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the center light the path of waves representing energy prone to scattering that is the shorter wavelength as it travels from the front of the shown to the sensor it appears that all energy has been reflected from the point p on the ground whereas in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID20_pd_3_0_1_trimmed.wav,The North Wind and the sun with the shooting was Stronger when a traveler came along with the one who was first succeeded in making a couple to be considered stronger than the other and the North Coast and so the northern was a black and the sun was stronger than just because there's something here because I find 7775,KCL_Text_PD,1
+ID20_pd_3_0_1.wav,so I will start with a question it's my first time in London and I'd like to visit some special place on Spotify I recommend most of the museums the science museum in particular museums in transport Plumbing,KCL_Spontaneous_PD,1
+ID21_hc_0_0_0_trimmed.wav,"Okay, I think it's good to have a walk along by the river just to sort of get the atmosphere of London to go toven garden and well yeah, maybe visit some of the museums, um, to go out for a nice meal and or to go to the theatre, lots of shows that you might be interested in and get some last minute deals as well. May save a bit of money on those. Yeah, um, depends where you're coming from and you can sort of do a lot of walking as well, which is good. She pretty, pretty easy. Um, but I I just, you know, do lots of walking. You also see Ben houses of parliament walk along the river south bank.Some of the galleries, they do lots of warm as well, okay",KCL_Spontaneous_HC,0
+ID21_hc_0_0_0.wav,hi dycon succeeded in making the traveler take his clothes off but the more he blew the more closely to The Traveler fold his clothes around him that last The North Wind gave up the attempt then the sunshine at warmly and immediately The Traveler took off his clothes and so the north wind was obliged confess that the sun was the stronger of the two this is because there is less scattering of blue light as the atmospheric path length and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be whiter and less orange colored as the observer's altitude increases this is because a greater proportion of the sunlight comes directly to the Observer side for 5.7 is a schematic representation of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the center of an orbiting satellite the path of waves representing energy prone to scattering that is the shorter wavelengths as it travels from Center to Earth or shown to the sensor it appears that all the energy has been reflected from point p on the ground whereas in fact it is not because some has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID22_hc_0_0_0.wav,hello yes I can't hear you yeah ok Google The North Wind and the sun were disputing which was the stronger when a traveler came along wrapped in a warm clock agreed that one who first succeeded in making the traveler take his clothes off of light to confess that the sun was the song this is because there is less Catherine of blue light as the atmospheric parts and consequently degree of scattering of the incoming radiation is reduced for the same reason the song happiest to be white and less orange and the part of magnetic energy in the visible spectrum as a travel from the Sun to the head and back again to was a song on repeating satellite the parts of the ways representing energy,KCL_Text_HC,0
+ID22hc_0_0_0_trimmed.wav,"I gonna recommend London, recommend you be able to, you know, be everywhere you go by, I have one, I don't have a favorite, okay? Yeah, I do mean, okay and it's all about, you know, I trying to build your body, you know, work out your body in the water, okay? I work in the hospital not, I meet patient every day, I help them with doing yes",KCL_Spontaneous_HC,0
+ID23_hc_0_0_0_trimmed.wav,"The most buildings that most people want to see are the tower of London, the houses of parliament, buckingham palace, and then perhaps you can go to somebody, the royal, the royal academy, national gallery, somerset house or her like go see some more modern.Buildings like the garden, the she is greater where you can go up and see the whole at London from the top or the shard. Okay, I'm a volunteer. I'VE been a volunteer twenty years giving out working, giving out information on epilepsy. I used to run a support group of people with epilepsy once a month. I' trained to do this and I' enjoyed it. I ended up doing this because I had to take medical retirement due to the level of seizures I was having. I was having remember that he was no longer I was no longer able to that endless about very much by",KCL_Spontaneous_HC,0
+ID23_hc_0_0_0.wav,yes I can just hear you North Wind and the sun The North Wind and the sun were too cute they agreed that one the one who first succeeded in making the traffic should be considered stronger than the other then the North Dakota 19901 Patriots 224 1979 S units this is because there is less scattering of blue light of the atmosphere of scattering of the incoming radio station is reduced for the same reason the song appears to be white as the observer's attitude increases this is because a greater proportion of the sunlight comes directly into the observer's 5.7 is a systematic Recreation of the path of the electromagnetic energy in the visible spectrum is it travels from the Sun to the Earth and Back Again towards the center Center light the way the parts of the ways representing energy from the Sun to the airport to pierce the old energy has been reflected from point p on the garage with in that atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID24_pd_2_0_0_trimmed.wav,hello I can hear you shall I read The North Wind and the sun North Africa and the sun will be stronger travel time 19995,KCL_Text_PD,1
+ID24_pd_2_0_0.wav,that's okay Wellington tonight I don't really have a favorite sport play I used to watch basketball okay thank you,KCL_Spontaneous_PD,1
+ID25_hc_0_0_0_trimmed.wav,"Um, hate modern, um, I would suggest you go to the houses of parliament, I suggest you go to, um.Yeah, there few buildings you can go and see, um, buckingham palace.Big Ben but yes, big Ben is mine but they haven worked on at the moment. Um, I would recommend you go by, you go by bus and the reason why I would suggest this, you might see some of the places, some other landmarks that might interest you and you know, yeah, the fashion, I mean I'm lo to help I doctors and nurses in the area and okay, um, I interested, I also work with and m s we do lot of new in the moment",KCL_Spontaneous_HC,0
+ID25_hc_0_0_0.wav,hello can you hear me yeah I can hear you okay The North Wind and The Sun Will disputing which was the stronger when a traveler came along Route in a warm cloak they agreed that the one who says succeeded in making the traveler take his clothes off should be considered stronger than the other than the blue as hard as it could but the more he blew the more closely did The Traveler fold his clothes around him and at last The North Wind gave up the song Sunshine and immediately The Traveler was obliged to confess that the sun was the stronger of the two this is this is because the atmosphere and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be white church increases this is because a greater proportion of the sunlight comes directly to the observer's eyes and figure 5276 representation of the path of the path of electromagnetic energy in the visual spectrum and they travel from the Sun to the Earth and Back Again towards a sensor mounted of the operating satellite the path of the ways representing energy prone to Scotland as it travels from the Sun to the Earth on shown to the sentences to San Francisco energies has been infected from point p on the ground where is in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all full stop,KCL_Text_HC,0
+ID26_hc_0_0_0_trimmed.wav,"I dont think it is the.And royal parks in London and there's James and there is seven fingers in and during the summer months you go and.So I would also maybe go to some of the museums history museum and the science museum.Okay, I would DeFinitely go on the and the buses are okay I busy on the road so I okay, well I used to be a swimming teacher so that related, but I used to teach, I used to teach children and so it was during the daytime and we have children arrive at home and it was my.Swim or will they doing very well? And then we had about ten weeks get anonymous then okay, thank you",KCL_Spontaneous_HC,0
+ID26_hc_0_0_0.wav,hello can you hear me I can hello okay news wind and the sun all the graphic version The North Wind and the sun would disputing which was the stronger when a traveler came along like they agreed that the one who first succeeded in making the travel to take off his clothes should be considered stronger than the other then the north wind blew is hard as he could but the more he played the more closely did The Traveler fold his clothes around him and at last The North Wind gave up the attempt the sunshine out warmly and immediately and the traveler took off his clothes and so the north wind was obliged to confess that the sun was the stronger of the tree application engineered 1991 p p 100 100 222 224 975 s units this is because there is less sketching of blue light as the atmosphere and consequently the degree of the income radiation is Redwood for the same reason the Sun appears to be white and less Orange County shooting this is because a greater proportion of the sunlight comes directly into the observer's I think of 5.7 ischemic representation of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the mounted on the orbiting satellite representing energy from the Sun to the Earth or shown to the center it appears that all and energy has been reflected from point p on the ground where is in fact it has not because Sam has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID27_pd_4_1_1_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID27_pd_4_1_1.wav,unrecognized,KCL_Spontaneous_PD,1
+ID28_hc_0_0_0_trimmed.wav,"Very over ands a choose the best option because, but I don't its very I mean best time see more on the room want to get I one when I say mom and my when I.",KCL_Spontaneous_HC,0
+ID28_hc_0_0_0.wav,hello hello all right just stop reading this thing I'll do the first one yeah okay The North Wind and The Sun Will disputing which was the stronger when a traveler came along wrapped in a warm cloak they agreed that the one who first six seated in making the traveler take his clothes off should be considered stronger than the other than the north wind blew is hard as it could but the more he blew the more closely did The Traveler fold his clothes around him and it last night and immediately The Traveler took off his clothes and so the north wind was obliged to confess that the sun was the stronger of the two this is because there is less scattering of blue light as the atmosphere atmosphere and consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be white and less orange colored as the Observer altitude increases this is because a greater proportion of sunlight comes directly to the observer's I figure 5.7 is the schematic representation of the path of the electronic energy in the visible spectrum as it travels from the Sun to the Earth and Back Again towards the sensor mounted on the orbiting satellite the paths of waves representing energy prone to scattering that is the shorter wavelengths as it travels from the Sun to Earth are shown to the sense that it appears that all the energy has been reflected from point B on the ground whereas in fact it has not because some of it has scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID29_pd_3_1_2_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID29_pd_3_1_2.wav,don't forget the Christmas song breaking up a little bit more confessionals hang up,KCL_Spontaneous_PD,1
+ID30_pd_2_1_1_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID30_pd_2_1_1.wav,hello can you hear me Guten Morgen yes I can OK Google Buckingham Palace the Tower of London Westminster bridge and big Ben and you can get on the bus and get off the bus whenever you like and it's very good value I have a bachelor's degree and a master's degree in geography and I told University High School Middle School and Primary School well I do a lot of volunteering for Parkinson's we have a big Garden we have a dog and I love playing with our dog I like and I like going to the theater and the Opera I'm reading okay,KCL_Spontaneous_PD,1
+ID31_hc_0_1_1_trimmed.wav,"And I'm St. James park in London and buckingham palace and sorry and know traalgar square, traalgar square and buckingham palace, we buckingham palace, westmin westm lam bridge",KCL_Spontaneous_HC,0
+ID31_hc_0_1_1.wav,hello should I start now oh sorry hello hello hello thank you okay The North Wind and the sun were disputing which was the stronger when a traveler came along wrapped in a warm clothes that one the one who first succeeded in making the trailer take the cloak of should be considered stronger than the other than the north wind blew as hard as he could but the movie Blue the more closely did the trailer for his cloak around him and at last The North Wind gave up the attempt then the sunshine out warmly and immediately the trailer took off his cloak and so the north wind was obliged to confess that the sun was the stronger of the two are the other one now okay this is because I want to start now okay this is because there is less scattering of blue light at as the most sorry consequently the degree of scattering of the incoming radiation is reduced for the same reason the Sun appears to be quieter and less orange color as The Observers attitude increases this is because a greater proportion of the sunlight comes directly to The Observers I figure 5.7 is ceramic representation of the part of electromagnetic energy in the visible spectrum as he travels from the Sun to the Earth and Back Again towards the singer mounted on an orbiting satellite the parts of waves representing energy prone to scattering that is the shorter wavelength as he travels from the Sun to Earth are shown to the Century theaters that all the energy has been reflected from point B on the ground whereas in fact it has not because some has been scattered within the atmosphere and has never reached the ground at all,KCL_Text_HC,0
+ID32_pd_3_1_1_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID32_pd_3_1_1.wav,hello Google,KCL_Spontaneous_PD,1
+ID33_pd_3_2_2_trimmed.wav,unrecognized,KCL_Text_PD,1
+ID33_pd_3_2_2.wav,hello yes what type of food you like Indian Chinese English English,KCL_Spontaneous_PD,1
+ID34_pd_2_0_0_trimmed.wav,5.77,KCL_Text_PD,1
+ID34_pd_2_0_0.wav,I recommend seeing the city of London and going to South Kensington to see the museums and there are lots of places to eat along Oxford Street you just got out just as you're saying something sorry,KCL_Spontaneous_PD,1
+ID35_hc_0_0_0_trimmed.wav,"Okay, some places can you repeat your questions? London bridge and London eye and square and madam Susan and again, sorry I couldn't hear repeat by train train is quicker than bus sorry professional you mean content? Yeah okay, okay then yeah, thank you",KCL_Spontaneous_HC,0
+ID35_hc_0_0_0.wav,can you hold it like you so can you hold it like this hello hello Google the agree that the one who first succeeded in making the traveler take his cloak of should be considered stronger than the other hard as he could but the movie Blue the movie gave up the attempt then the sunshine and immediately was obliged to confess that the sun was the stronger of the two,KCL_Text_HC,0
+ID36_hc_0_0_0_trimmed.wav,"Right? You like something the, I mean you see the abbey and probably could be restaurant, I mean, I haven't been any restaurant around here, but I would recommend the lene restaurant for you.Neurology movement one year research",KCL_Spontaneous_HC,0
+ID36_hc_0_0_0.wav,5.7 is a schematic representations of the path of electromagnetic energy in the visible spectrum as it travels from the Sun to the Earth and back again tomorrow thanks travel from the Sun to the center it appears that all the energy has been reflected from point p on the ground where is in fact it has not because some has been started within the atmosphere and has never reached the ground at all the north wind and the suns were disputing which was the stronger when a traveler came around in a warm clothes clock off should be considered stronger than the other than the north wind blew as hot as he could but the more he blew the more closely did The Traveler found him and last The North Wind give up the time then the sunshine and immediately The Traveler took off his clock and so did not win was obliged to confess that the sun was the stronger of the two,KCL_Text_HC,0

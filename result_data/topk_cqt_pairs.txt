@@ -1,0 +1,5 @@
+Voice/China_HC_Output/滨江水岸社区卫生服务站 14_chunk6_cqt.png|Voice/KCL_Spontaneous_PD_Output/ID13_pd_3_2_2_cqt.png
+Voice/China_HC_Output/滨江水岸社区卫生服务站 14_chunk6_cqt.png|Voice/KCL_Spontaneous_PD_Output/ID13_pd_3_2_2_chunk60_cqt.png
+Voice/China_HC_Output/滨江水岸社区卫生服务站_chunk66_cqt.png|Voice/KCL_Spontaneous_PD_Output/ID33_pd_3_2_2_chunk54_cqt.png
+Voice/China_HC_Output/滨江水岸社区卫生服务站_chunk66_cqt.png|Voice/KCL_Spontaneous_PD_Output/ID32_pd_3_1_1_chunk48_cqt.png
+Voice/China_HC_Output/滨江水岸社区卫生服务站_chunk66_cqt.png|Voice/KCL_Spontaneous_PD_Output/ID13_pd_3_2_2_cqt.png
